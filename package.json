@@ -1,0 +1,2 @@
+{ "name": "rplverse", "version": "0.1.0", "type": "module",
+  "scripts": { "dev": "npx serve .", "start": "npx serve ." } }
